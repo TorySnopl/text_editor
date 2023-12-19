@@ -6,7 +6,7 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 // TODO: Add and configure workbox plugins for a service worker and manifest file.
 const wrkBox = require ('workbox-webpack-plugin');
 // TODO: Add CSS loaders and babel to webpack.
-const cssPlugin = require ('mini-css-extract-plgin');
+const cssPlugin = require('mini-css-extract-plugin')
 
 module.exports = () => {
   return {
