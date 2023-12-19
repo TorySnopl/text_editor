@@ -47,18 +47,43 @@
 >THEN I should have proper build scripts for a webpack application
 
 ## Installation
+- Clone this repository into your local repository
+- npm run build
+- npm run start
+- open localhost:3000
 
 
 ## Usage
 
+This is a simple text editor to explore the use of webpack. 
+
 
 ## Technologies Used
+
+Webpack was the main technology focused on in this project. Others used included:
+- Javascript
+- Node
+- Express
+- Nodemon
+- Babbel-loader
+- Css-loader
+- Code-mirror-themes
+- Idb
+
 
 
 ## What I Learned
 
+Webpack is a powerful tool when it comes to creating progressive web apps. I can see how providing an app like experience along with offline functionality creates a more powerful and user friendly site. I feel as though I have just scratched the surface of these technologies and look forward to diving deeper into the nuances of the various npm packages.
+
 
 ## Screenshots
+
+![Homepage](./assets/opening.png)
+
+![Manifest](./assets/manifest.png)
+
+![Service Workers](./assets/sw.png)
 
 
 ## Demo Video
